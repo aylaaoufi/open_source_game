@@ -26,3 +26,6 @@ This project is intended as a sandbox for you to learn about GitHub and contribu
 
 ## Acknowledgements
 All the code in this repo was written by [Sam Wronski](https://github.com/runewake2).
+
+### Contributors
+- [Ayoub Laaoufi](https://github.com/aylaaoufi) :D Nice to meet you.
